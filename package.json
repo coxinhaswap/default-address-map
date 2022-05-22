@@ -1,0 +1,9 @@
+{
+  "name": "default-address-map",
+  "version": "1.0.0",
+  "description": "Default API to validate Dapp addresses",
+  "main": "index.js",
+  "author": "Coxinha.IO",
+  "license": "MIT",
+  "private": false
+}
